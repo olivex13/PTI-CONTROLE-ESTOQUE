@@ -1,0 +1,15 @@
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\bin\Debug\net8.0\PTI-CONTROLE-ESTOQUE.exe
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\bin\Debug\net8.0\PTI-CONTROLE-ESTOQUE.deps.json
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\bin\Debug\net8.0\PTI-CONTROLE-ESTOQUE.runtimeconfig.json
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\bin\Debug\net8.0\PTI-CONTROLE-ESTOQUE.dll
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\bin\Debug\net8.0\PTI-CONTROLE-ESTOQUE.pdb
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\obj\Debug\net8.0\PTI-CONTROLE-ESTOQUE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\obj\Debug\net8.0\PTI-CONTROLE-ESTOQUE.AssemblyInfoInputs.cache
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\obj\Debug\net8.0\PTI-CONTROLE-ESTOQUE.AssemblyInfo.cs
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\obj\Debug\net8.0\PTI-CONTROLE-ESTOQUE.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\obj\Debug\net8.0\PTI-CONTROLE-ESTOQUE.sourcelink.json
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\obj\Debug\net8.0\PTI-CONTROLE-ESTOQUE.dll
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\obj\Debug\net8.0\refint\PTI-CONTROLE-ESTOQUE.dll
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\obj\Debug\net8.0\PTI-CONTROLE-ESTOQUE.pdb
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\obj\Debug\net8.0\PTI-CONTROLE-ESTOQUE.genruntimeconfig.cache
+C:\Users\silva\OneDrive\Área de Trabalho\PTI-CONTROLE-ESTOQUE\obj\Debug\net8.0\ref\PTI-CONTROLE-ESTOQUE.dll
