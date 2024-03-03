@@ -11,6 +11,7 @@ class Program
        int menu = 0;
        do 
        {
+        Console.WriteLine("##CONTROLE DE ESTOQUE - QUADROS##");
         Console.WriteLine("");
         Console.WriteLine("[1] Novo");	
         Console.WriteLine("[2] Listar Produtos");
@@ -41,6 +42,8 @@ class Program
             novoQuadro.Tipo = Console.ReadLine();
 
             estoque.Adicionar(novoQuadro);
+
+            Console.WriteLine("Quadro adcionado com sucesso.");
 
         }
 
