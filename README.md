@@ -1,7 +1,8 @@
 
 # PTI - ALGORITMOS  DE PROGAMAÇÃO 2 🛸
 
-## Software para controle de estoque desenvolvido em C#
+## Software para controle de estoque desenvolvido em C# 
+## CURSO - ANALISE E DESENVOLVIMENTO DE SISTEMAS - 2 SEMESTRE- SENAC
 
 **Enunciado:** Você foi contratado por uma empresa para desenvolver um software que gerenciará o estoque de seus produtos. No primeiro protótipo que você desenvolverá, o sistema ainda não irá se conectar ao banco de dados. As informações ficarão em memória, assim, serão perdidas ao reiniciar o programa. Assim que o software abrir, ele deve apresentar o seguinte menu:
  
